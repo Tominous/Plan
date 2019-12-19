@@ -87,7 +87,7 @@ subprojects {
     ext.commonsTextVersion = "1.8"
     ext.htmlCompressorVersion = "1.5.2"
     ext.caffeineVersion = "2.8.0"
-    ext.h2Version = "1.4.199"
+    ext.h2Version = "1.4.200"
     ext.mysqlVersion = "8.0.18"
     ext.hikariVersion = "3.4.1"
     ext.slf4jVersion = "1.7.30"
