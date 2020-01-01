@@ -782,7 +782,7 @@ public interface DatabaseTest {
     }
 
     @Test
-    default void testNewContainerForPlayer() throws NoSuchAlgorithmException {
+    default void testNewContainerForPlayer() {
         saveAllData();
 
         long start = System.nanoTime();
